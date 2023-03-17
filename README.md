@@ -39,4 +39,6 @@ You can cite it as follows:
 }
 ```
 
+A part of the data including images is under preparation for public release.
+
 If you have any questions about the paper and repository, feel free to contact Shogo Sato (shg.sato[at] ntt.com) or open an issue!
