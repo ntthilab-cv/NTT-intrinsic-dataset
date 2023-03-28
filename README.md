@@ -3,6 +3,8 @@
 This repository includes the NTT-IID introduced by the following paper: Shogo Sato, Yasuhiro Yao, Taiga Yoshida, Takuhiro Kaneko, Shingo Ando, and Jun Shimamura. "Unsupervised Intrinsic Image Decomposition with LiDAR Intensity". In Proc. of CVPR 2023.
 The NTT Intrinsic dataset consists of three components: RGB images, LiDAR intensity mapped to the images, and WHDR annotations.
 
+The paper arXiv link is [here]([https://github.com/madmaze/pytesseract](https://arxiv.org/abs/2303.10820)).
+
 ![Figure 1 from paper](./sample.png)
 
 **Picture:**  *An example of NTT Intrinsic dataset.*
